@@ -76,3 +76,40 @@ nav ul a {
     margin: 0 30px 0 200px;
     justify-content: space-between;
 }
+.section-title{
+    font-weight: bold;
+    font-size: 35px;
+    color: #181818;
+   
+   
+}
+.about-description{
+    color: #757575;
+    font-size: 18px;
+
+}
+.secondary-bg{
+    background-color: #FFF8F3;
+    
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    text-align: center;
+    padding: 130px 150px;
+
+}
+.iteam-name{
+    
+    font-size: 20px;
+    font-weight: bold;
+}
+.about-iteams{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
